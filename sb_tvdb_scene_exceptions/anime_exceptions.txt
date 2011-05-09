@@ -1,2 +1,3 @@
 248035: 'Ao no Exorcist'
 239951: 'C - The Money of Soul and Possibility Control','C The Money of Soul and Possibility Control'
+247949: 'Hidan no Aria'
