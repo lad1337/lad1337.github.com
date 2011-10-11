@@ -5,3 +5,4 @@
 249846: 'Blade'
 250084: 'Mawaru Penguin Drum'
 249876: 'Kami sama no memo chou','Kamisama no Memochou'
+252345: 'Kyoukai Senjou no Horizon'
