@@ -9,3 +9,4 @@
 252343: 'Maji de watashi ni koi shinasai'
 251906: 'Ben-to'
 249827: 'Mirai Nikki'
+251908: 'Boku wa Tomodachi ga Sukunai'
