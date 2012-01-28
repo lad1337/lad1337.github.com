@@ -10,3 +10,4 @@
 251906: 'Ben-to'
 249827: 'Mirai Nikki'
 251908: 'Boku wa Tomodachi ga Sukunai', 'Boku Ha Tomodachi ga Sukunai', 'haganai'
+79824: 'Naruto Shippuden'
