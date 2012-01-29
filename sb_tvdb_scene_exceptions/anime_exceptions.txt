@@ -11,3 +11,6 @@
 249827: 'Mirai Nikki'
 251908: 'Boku wa Tomodachi ga Sukunai', 'Boku Ha Tomodachi ga Sukunai', 'haganai'
 79824: 'Naruto Shippuden'
+254663: 'Mouretsu pirates', 'Mouretsu Space pirates'
+254654: 'Papa no Iukoto o Kikinasai'
+255056: 'Ano Natsu de Matteru'
